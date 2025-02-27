@@ -1,0 +1,8 @@
+[versions]
+springBoot = "3.4.3"
+lombok = "1.18.36"
+
+[libraries]
+springBootStarterWeb = { module = "org.springframework.boot:spring-boot-starter-web", version.ref = "springBoot" }
+springBootStarterActuator = { module = "org.springframework.boot:spring-boot-starter-actuator", version.ref = "springBoot" }
+lombok = { module = "org.projectlombok:lombok", version.ref = "lombok" }
