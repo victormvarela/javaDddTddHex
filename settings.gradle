@@ -1,1 +1,2 @@
-rootProject.name = 'demo'
+rootProject.name = 'javaDddTddHex'
+include 'boot', 'contact'
