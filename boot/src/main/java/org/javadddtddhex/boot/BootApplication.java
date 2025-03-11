@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"org.javadddtddhex.boot", "org.javadddtddhex.contact.controller"})
+@ComponentScan(basePackages = {"org.javadddtddhex.boot", "org.javadddtddhex.contact"})
 public class BootApplication {
 
 	public static void main(String[] args) {
